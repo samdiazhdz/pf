@@ -47,6 +47,6 @@ $conn->close();
         <p><?php echo $search_results; ?></p>
     <?php endif; ?>
 
-    <a href="index.html">Volver</a>
+    <a href="index.php">Volver</a>
 </body>
 </html>
